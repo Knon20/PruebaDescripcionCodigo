@@ -1,0 +1,7 @@
+echo "# PruebaDescripci-nC-digo" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Knon20/PruebaDescripci-nC-digo.git
+git push -u origin main
